@@ -1,3 +1,4 @@
 unixodbc-dev
 unixodbc
 python3.7-dev
+unixodbc-devel
